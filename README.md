@@ -8,7 +8,7 @@ Zuri assignment comprising all week 6 to week 7 tasks.
 
 ## 🛠 Skills
 
-Javascript, HTML, CSS...
+Javascript, HTML, CSS....
 
 
 ## Author
