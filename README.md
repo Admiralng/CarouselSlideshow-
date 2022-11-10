@@ -1,4 +1,4 @@
-Hosted Pages of the Repo: https://
+Hosted Pages of the Repo: https://admiralng.github.io/CarouselSlideshow-/
 
 
 # Week 6 and 7 Task.
