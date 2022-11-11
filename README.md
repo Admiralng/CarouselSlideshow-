@@ -18,4 +18,5 @@ Javascript, HTML, CSS....
 https://github.com/Admiralng
 
 
+## Note:
 The page does not immediately show the carousel images, you have to click on the next or previuos arrow to get them into action.
